@@ -21,6 +21,13 @@ foods; consuming vinegar or lemon juice with starchy meals; and eating protein a
 before carbohydrates. Even simple meal reordering---eating the non-starchy components first---can
 significantly improve glycemic response without changing what you eat.
 
+Exercise regularly to reduce visceral fat. Both aerobic exercise and resistance training are
+effective, and combining them may be optimal. Higher-intensity exercise produces greater
+reductions than moderate intensity. High-intensity interval training (HIIT) achieves similar
+results to continuous training in less time---running-based HIIT is particularly effective.
+Aim for greater total energy expenditure, as visceral fat reduction follows a dose-response
+relationship with exercise volume.
+
 .. toctree::
    :maxdepth: 1
    :caption: Contents
