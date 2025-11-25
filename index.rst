@@ -22,7 +22,7 @@ before carbohydrates. Even simple meal reordering---eating the non-starchy compo
 significantly improve glycemic response without changing what you eat.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents
 
    oxldl
